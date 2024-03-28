@@ -25,6 +25,7 @@ body::before {
   margin: 1.5rem;
   margin-left: 1rem;
   margin-right: 1rem;
+  max-width: 50rem;
 }
 
 .window:last-child {
